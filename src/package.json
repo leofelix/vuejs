@@ -1,0 +1,12 @@
+{
+  "name": "Vue Template",
+  "version": "1.0.0",
+  "description": null,
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/w6nw3vxvo5",
+  "main": "index.js",
+  "dependencies": {
+    "vue-router": "3.0.1",
+    "vue": "2.5.2"
+  }
+}
